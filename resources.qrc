@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qmlcpptest">
+        <file>main.qml</file>
+    </qresource>
+</RCC>
